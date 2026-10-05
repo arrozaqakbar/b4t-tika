@@ -1,0 +1,7 @@
+{
+  "name": "B4T TIKA - Sistem Layanan & Ekstraksi Dokumen B4T",
+  "description": "Platform terpadu layanan pengujian, kalibrasi, sertifikasi SNI, tracking permohonan, dan analisis ekstraksi metadata dokumen Balai Besar Bahan dan Barang Teknik Kementerian Perindustrian RI.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
